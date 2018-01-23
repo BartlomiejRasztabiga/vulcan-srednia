@@ -1,0 +1,232 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started  until  (0 msec)
+16:34:06|3136|background.html|INST_NEW|Up|1443803189||0||4||201|0|0|||INST_NONE|
+16:34:06|7595|background.js|INST_NEW|Up|1443811352||285||4||201|0|0|||INST_NONE|
+16:34:06|6956|icon19.png|INST_NEW|Up|1443807121||3599||4||201|0|0|||INST_NONE|
+16:34:10|4967|jquery.min.js|INST_NEW|Up|1443809810||95957||4||201|0|0|||INST_NONE|
+16:34:14|2770|manifest.json|INST_NEW|Up|1484402532||430||4||201|0|0|||INST_NONE|
+16:34:14|3777|script.js|INST_NEW|Up|1484403655||1072||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+10:28:55|181|script.js|INST_SYNC|Up|1484475259||2374||4||204|1072|1484403655|90898e8138bab56385f49255049752e6|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:27:15|303|script.js|INST_SYNC|Up|1484479623||2402||4||204|2374|1484475259|39d257c8c2690ff591489fd7ec55f33b|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:28:33|216|script.js|INST_SYNC|Up|1484479704||2407||4||204|2402|1484479623|065a71883eeb58ca44d504b4cd1911e3|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:31:42|180|script.js|INST_SYNC|Up|1484479900||2696||4||204|2407|1484479704|f002c52c25781266dfaf8912baa6299a|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:32:09|158|script.js|INST_SYNC|Up|1484479919||2700||4||204|2696|1484479900|212708d01f8cc0c568ff23a7d6a3e890|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:33:27|163|script.js|INST_SYNC|Up|1484480005||3218||4||204|2700|1484479919|7357a0e49a7a47747299a92dd713bc95|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:33:54|163|script.js|INST_SYNC|Up|1484480030||3220||4||204|3218|1484480005|a094906f049e1c4abd205f041ae409b2|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:35:09|149|script.js|INST_SYNC|Up|1484480097||3475||4||204|3220|1484480030|fdb02d1226af07d090835f664227a0f6|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:35:38|161|script.js|INST_SYNC|Up|1484480132||3283||4||204|3475|1484480097|1b4ad33fd403031036a40af1185be77d|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:36:17|148|script.js|INST_SYNC|Up|1484480168||3267||4||204|3283|1484480132|4377029efe76bef28a6046d2ae1ec812|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:37:47|261|script.js|INST_SYNC|Up|1484480262||2570||4||204|3267|1484480168|76684da3ea4229965b0019065b575cb5|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:40:04|169|script.js|INST_SYNC|Up|1484480404||2664||4||204|2570|1484480262|ff60fa139effc22c66190115db980b65|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:41:20|165|script.js|INST_SYNC|Up|1484480471||2669||4||204|2664|1484480404|6e5ec1b6e8152d673e376f1114e4c488|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:41:42|168|script.js|INST_SYNC|Up|1484480500||2754||4||204|2669|1484480471|e1c02e8dc3affaf41703d842ee8970ff|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:41:54|140|script.js|INST_SYNC|Up|1484480507||2754||4||204|2754|1484480500|35df34c31a2d62396d25a2cbc8bd9ea1|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:42:16|200|script.js|INST_SYNC|Up|1484480533||2774||4||204|2754|1484480507|3792512191cb6cd83b53cd990e1e8be3|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+11:43:21|151|script.js|INST_SYNC|Up|1484480597||2807||4||204|2774|1484480533|c3aea9655bbb7ddbfa1cfc958de1992a|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+11:43:34|161|script.js|INST_SYNC|Up|1484480607||2677||4||204|2807|1484480597|6cf7cf8514d82c1144d79c6c47854832|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+19:57:26|197|script — kopia.js|INST_NEW|Up|1484480607||2677||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+19:57:31|484|script.js|INST_RENAME|Up|1484480607|26b000059f4da90a7db2575f14854edc|2677|00036488oc4llyude318|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+19:57:34|177|script — kopia.js|INST_RENAME|Up|1484480607|14bcd6c3c47411940a3235c55bf0dc4e|2677|00101636oc4llyude318|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+19:58:49|215|script.js|INST_SYNC|Up|1484596727||336||4||204|2677|1484480607|14bcd6c3c47411940a3235c55bf0dc4e|00101636oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+19:59:30|172|script.js|INST_SYNC|Up|1484596768||336||4||204|336|1484596727|390c6753fde12cefb878ae53c16a30dc|00101636oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+19:59:55|223|script.js|INST_SYNC|Up|1484596793||287||4||204|336|1484596768|5e49784f1687fbba5e623dfb409198af|00101636oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:00:16|409|script.js|INST_SYNC|Up|1484596814||332||4||204|287|1484596793|53a484b860fb834ce5377a2fd421dad4|00101636oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:00:26|174|script.js|INST_SYNC|Up|1484596824||333||4||204|332|1484596814|5969051d99bece385e296d2aacf14118|00101636oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:00:49|202|script.js|INST_SYNC|Up|1484596847||225||4||204|333|1484596824|6dbdc439b7f61d6c876031f7eb391b37|00101636oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:02:37|249|script1.js|INST_SYNC|Up|1484596955||2557||4||204|2677|1484480607|26b000059f4da90a7db2575f14854edc|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:02:46|457|script.js|INST_REMOVE|Up|1484596847|09e609923f3cdd5e368886be78119eae|225|00101636oc4llyude318|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:02:50|964|script1.js|INST_RENAME|Up|1484596955|d4f562020224fbe88130fbad8c5f64b7|2557|00036488oc4llyude318|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:03:12|256|script.js|INST_SYNC|Up|1484596990||2557||4||204|2557|1484596955|d4f562020224fbe88130fbad8c5f64b7|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:03:57|259|script.js|INST_SYNC|Up|1484597035||2593||4||204|2557|1484596990|041172ce5b623f9156722f3ab83ef92d|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:04:39|161|script.js|INST_SYNC|Up|1484597077||2558||4||204|2593|1484597035|c91c32d7c608f4655f5c8584c5a96989|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:05:44|243|script.js|INST_SYNC|Up|1484597142||2621||4||204|2558|1484597077|89ce01415ea2bafc63a2dfa838d374d1|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:05:57|229|script.js|INST_SYNC|Up|1484597155||2562||4||204|2621|1484597142|0b0857eab620442f5cafa3b0b22e2df5|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:06:31|244|script.js|INST_SYNC|Up|1484597189||2548||4||204|2562|1484597155|52a79b9a77e4dfc1af9738bf57d92f22|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:07:11|276|script.js|INST_SYNC|Up|1484597229||2588||4||204|2548|1484597189|26611ceefd7972592130bb4bed620c9e|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:08:55|226|script.js|INST_SYNC|Up|1484597333||2548||4||204|2588|1484597229|41b97bc06293e19677073f8713297f9b|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:09:17|209|script.js|INST_SYNC|Up|1484597355||2588||4||204|2548|1484597333|eb920ce4986cf78708e4830fd943c75c|00036488oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:11:55|638|script.js|INST_RENAME|Up|1484597355|15931bf37ac07387178ffdbba8c0cd6e|2588|00036488oc4llyude318|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:11:58|171|script.js|INST_NEW|Up|1484596847||225||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:12:38|247|script.js|INST_SYNC|Up|1484597556||2590||4||204|225|1484596847|828d938589722c61bf9e56a418fa5d54|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:12:42|944|script1.js|INST_REMOVE|Up|1484597355|15931bf37ac07387178ffdbba8c0cd6e|2588|00036488oc4llyude318|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:13:09|219|script.js|INST_SYNC|Up|1484597587||2592||4||204|2590|1484597556|00e5e24190eea433f481ffa22f0c2c16|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:13:37|181|script.js|INST_SYNC|Up|1484597615||2588||4||204|2592|1484597587|47d41d376806915deb754d3171021ac4|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:17:28|209|script.js|INST_SYNC|Up|1484597846||2786||4||204|2588|1484597615|fa5c8192dc787a712504f13450ba8531|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:18:08|205|script.js|INST_SYNC|Up|1484597886||2784||4||204|2786|1484597846|d510e3d53a95d4640ce041efbdfe0c06|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:18:45|180|script.js|INST_SYNC|Up|1484597923||2786||4||204|2784|1484597886|5906795eb9dfbec4e2ea547ba1c55055|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:22:02|253|script.js|INST_SYNC|Up|1484598120||2816||4||204|2786|1484597923|3332674de693cc618db5284ffc3441d2|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:22:24|195|script.js|INST_SYNC|Up|1484598142||2517||4||204|2816|1484598120|55a36781cc787999ef73f4c11216ac03|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:22:32|448|script.js|INST_SYNC|Up|1484598150||2816||4||204|2517|1484598142|831210f6446b85434cda8fff43fb28a2|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:22:48|185|script.js|INST_SYNC|Up|1484598166||2985||4||204|2816|1484598150|b5fa104b4034bc88bcc819c0324746ff|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:22:56|188|script.js|INST_SYNC|Up|1484598174||3059||4||204|2985|1484598166|4e4c3ef8a32004b66650b81452edc2be|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:23:06|209|script.js|INST_SYNC|Up|1484598184||2687||4||204|3059|1484598174|799b78de8b17b1e054befaa8b81c81f6|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:23:48|269|script.js|INST_SYNC|Up|1484598226||2691||4||204|2687|1484598184|5596308b8b195c8248fc3ac12b56b087|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:24:06|174|script.js|INST_SYNC|Up|1484598244||2691||4||204|2691|1484598226|1974e927421a151c8d5652d095aa0e39|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:24:41|164|script.js|INST_SYNC|Up|1484598279||2770||4||204|2691|1484598244|9bba0329ce5b6ff59d977bd25047dcf2|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:25:02|158|script.js|INST_SYNC|Up|1484598301||2850||4||204|2770|1484598279|c9610d19825e36dec1c5b23947a151aa|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:25:07|171|script.js|INST_SYNC|Up|1484598305||2617||4||204|2850|1484598301|b684ad7729de3600deb3133394c40449|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:26:49|211|script.js|INST_SYNC|Up|1484598407||2761||4||204|2617|1484598305|4a09368078e454d401d2d848270f6f62|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:27:02|199|script.js|INST_SYNC|Up|1484598420||2774||4||204|2761|1484598407|2dc5982a644183e3a17820013aff4120|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:27:26|187|script.js|INST_SYNC|Up|1484598444||2800||4||204|2774|1484598420|ad1f254604f12ede7a4aa3bf97f7e2f4|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:27:53|226|script.js|INST_SYNC|Up|1484598471||2822||4||204|2800|1484598444|bbd971c54648b8a434a052ea6ba72251|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+|0|script.js|INST_SYNC|Up|1484598508||2861||3|Lokalny plik zmieni³ siê podczas synchronizacji.|0|2822|1484598471|ddbf78231ddea48719ac40121510ab71|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:28:32|198|script.js|INST_SYNC|Up|1484598508||2861||4||204|2822|1484598471|ddbf78231ddea48719ac40121510ab71|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+20:28:53|227|script.js|INST_SYNC|Up|1484598531||2836||4||204|2861|1484598508|eff7cba7f62ad477b755f424508fc7c6|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:29:50|166|script.js|INST_SYNC|Up|1484598588||2836||4||204|2836|1484598531|735fa70068f5561864afeced01975909|00101653oc4llyude318|INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:32:08|164|vulcan-srednia.rar|INST_NEW|Up|1484598726||37485||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+20:32:56|186|vulcan-srednia.rar|INST_REMOVE|Up|1484598726|b78dba2d7325f251457696cd39569c63|37485|00101678oc4llyude318|4||204|0|0|||INST_NONE|
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)
+#=#=#=# Syncrun started  until  (0 msec)

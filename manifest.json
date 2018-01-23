@@ -1,0 +1,19 @@
+{
+	"name": "Vulcan Średnia",
+	"description": "Pokazuje w eDzienniku Vulcan średnią roczną i półroczną",
+	"author": "Bartłomiej Rasztabiga",
+	"version": "1.0",
+	"manifest_version": 1,
+
+	"page_action": {
+		"default_title": "Vulcan Średnia",
+		"default_icon": "icon19.png"
+	},
+
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+
+	"permissions": ["https://*.vulcan.net.pl/", "activeTab", "tabs"]
+}
